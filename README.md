@@ -1,4 +1,1 @@
-bps-hrms
-========
-
-BPS HRMS
+BP Solutions HR Management System
